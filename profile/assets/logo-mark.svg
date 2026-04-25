@@ -1,0 +1,23 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="swrming mark">
+  <title>swrming — swarm mark</title>
+  <g fill="none" stroke="#FFC72C" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="160,100 130,48.04 70,48.04 40,100 70,151.96 130,151.96" stroke-width="2.2"/>
+    <g stroke-width="1.2" opacity="0.3">
+      <line x1="100" y1="100" x2="160" y2="100"/>
+      <line x1="100" y1="100" x2="130" y2="48.04"/>
+      <line x1="100" y1="100" x2="70" y2="48.04"/>
+      <line x1="100" y1="100" x2="40" y2="100"/>
+      <line x1="100" y1="100" x2="70" y2="151.96"/>
+      <line x1="100" y1="100" x2="130" y2="151.96"/>
+    </g>
+  </g>
+  <g fill="#FFC72C">
+    <circle cx="160" cy="100" r="8"/>
+    <circle cx="130" cy="48.04" r="8"/>
+    <circle cx="70" cy="48.04" r="8"/>
+    <circle cx="40" cy="100" r="8"/>
+    <circle cx="70" cy="151.96" r="8"/>
+    <circle cx="130" cy="151.96" r="8"/>
+    <circle cx="100" cy="100" r="10.5"/>
+  </g>
+</svg>
